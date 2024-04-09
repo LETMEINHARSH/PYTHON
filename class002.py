@@ -1,0 +1,13 @@
+a=10
+b=9.2
+name="true"
+bln=True
+com=9+4j
+print(type(a))
+print(type(b))
+print(type(name))
+print(type(bln))
+print(type(com))
+print(a)
+_10=a
+print(type(_10))
