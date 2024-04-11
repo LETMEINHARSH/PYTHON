@@ -1,4 +1,4 @@
-# WAP to take two numbers as user input and print their sum.
+# WAP to take two numbers as user input and perform arethematic operations and print their result seperately.
 
 a=float(input("Enter a number="))
 b=float(input("Enter a number="))
