@@ -10,4 +10,4 @@ print("Percentage of class attended:",pca)
 if pca<75:
     print("You are not eligible to sit in exam")
 else:
-    print("You are elegible to sit in exam")
+    print("You are eligible to sit in exam")
