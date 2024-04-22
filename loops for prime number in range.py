@@ -6,8 +6,8 @@ if a>=1 and b>a:
     print("Prime number in given range are:",end='')
     for i in range (a,b):
         if i>1:
-            for num in range (2,i):
-             if (i%num)==0:
+            for j in range (2,i):
+             if (i%j)==0:
               break
             else:
              print(i,end=',')

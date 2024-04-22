@@ -69,3 +69,18 @@
 #     b=b//10
 # print(a)
 # print(b)
+
+# #  007
+# x=5
+# y=2
+# for i in range(1,8,2):
+#     for j in range(2,6,2):
+#         if i+j<7:
+#             x=x+2
+#             y=y+5
+#         else:
+#             x=x+10
+#             y=y+10
+#             break
+# print(x)
+# print(y)
