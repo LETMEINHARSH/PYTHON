@@ -84,3 +84,26 @@
 #             break
 # print(x)
 # print(y)
+
+# # 008
+# x=9928
+# y=5432
+# j=0
+# for i in range(5,20,2):
+#     j=i+1
+#     if (i+j)%3==0:
+#         x=x//10
+#         y=y//10
+#         i=i+1
+#     elif(i+j)%5==0:
+#         i=i+2
+#         x=x//100
+#         y=y//100
+#         print(x)
+#         print(y)
+#     else:
+#         for k in range (0,5,2):
+#             print(x//10)
+#         break
+# print(x)
+# print(y)
