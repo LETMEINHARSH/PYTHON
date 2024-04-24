@@ -1,3 +1,5 @@
+# WAP to find sum of digits of number accepted from the user.
+
 n=int(input("Enter a number:"))
 sum=0
 if n>=0:
