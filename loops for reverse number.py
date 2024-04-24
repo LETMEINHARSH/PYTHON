@@ -2,6 +2,7 @@
 
 a=int(input("Enter a number:"))
 if a>0:
+    print("Reverse of entered number is:",end='')
     for i in range (a):
      b=a%10
      a=a//10
