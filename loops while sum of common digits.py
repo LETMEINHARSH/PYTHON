@@ -14,5 +14,3 @@ while a>0:
             b=b//10
     a=a//10
     b=e
-else:
-    print("No common digit.")
