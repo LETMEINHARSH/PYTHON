@@ -8,4 +8,4 @@ for i in s1:
     for j in s2:
         if i==j:
             sum=sum+int(j)
-print(sum)
+print("Sum of digits in the string:",sum)
