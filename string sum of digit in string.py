@@ -1,4 +1,4 @@
-# WAP to take string as input that contains both alphabet and numbers .
+# WAP to take string as input that contains both alphabet and numbers.
 # calculate and print the sum of the digit present in the string.
 
 s1=input("Enter any string:")
