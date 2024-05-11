@@ -1,3 +1,5 @@
+# WAP to add 'ing' at the end of a given string
+
 str=input("Enter any string:")
 ing="ing"
 if len(str)<3:

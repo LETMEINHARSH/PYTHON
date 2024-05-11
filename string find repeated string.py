@@ -1,4 +1,4 @@
-# WAP to find first repeated word in a string.
+# WAP to find first repeated character in a string.
 
 str=input("Enter any string:")
 for i in str:
